@@ -12,7 +12,7 @@
 
 ---
 
-### 🏛️ About Us
+### 🏛�?About Us
 
 The **Atlanta College of Liberal Arts and Sciences** is an elite higher education institution dedicated to breaking down geographic and economic barriers to world-class learning. By leveraging first-principles cognitive science and local, on-device neural simulations, we are building the first **Anti-Fragile University**.
 
@@ -23,9 +23,9 @@ We believe that every mind deserves elite education. Our open-source repositorie
 ### 🌟 Featured Open Source Initiative
 
 *   🧠 **[ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu)**
-    *An autonomous cognitive simulation framework for AI-powered education. It models knowledge acquisition using on-device neural networks, vector-space semantics, and thermodynamic entropy analysis — without relying on external wrappers.*
+    *An autonomous cognitive simulation framework for AI-powered education. It models knowledge acquisition using on-device neural networks, vector-space semantics, and thermodynamic entropy analysis �?without relying on external wrappers.*
 
-### 🛠️ Tech Stack & Research Focus
+### 🛠�?Tech Stack & Research Focus
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg?style=for-the-badge&logo=fastapi)
 ![NumPy](https://img.shields.io/badge/NumPy-Powered-013243.svg?style=for-the-badge&logo=numpy)
@@ -43,7 +43,7 @@ We believe that every mind deserves elite education. Our open-source repositorie
 [![Facebook](https://img.shields.io/badge/Facebook-ACLAS-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/aclascollege)
 [![Instagram](https://img.shields.io/badge/Instagram-ACLAS-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/aclascollege)
 [![YouTube](https://img.shields.io/badge/YouTube-ACLAS-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@aclascollege)
-[![Twitter/X](https://img.shields.io/badge/Twitter-ACLAS-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/aclascollege)
+[![X](https://img.shields.io/badge/X-AclasCollege-000000?style=for-the-badge&logo=x)](https://x.com/AclasCollege)
 
 <sub>© 2026 Atlanta College of Liberal Arts and Sciences.</sub>
 
