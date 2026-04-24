@@ -22,11 +22,12 @@ We believe that every mind deserves elite education. Our open-source repositorie
 
 ### 🌟 Featured Open Source Initiative
 
-*   🧠 **[ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu)**
+*   🧠 **[ACLAS Neuro-Edu SDK v3.0](https://github.com/aclascollege/neuro-edu)**
     *An autonomous cognitive simulation framework for AI-powered education. It models knowledge acquisition using on-device neural networks, vector-space semantics, and thermodynamic entropy analysis — without relying on external wrappers.*
+    * 👉 **[Live 3D Neural Dashboard & Hub Integration (Hugging Face Space)](https://huggingface.co/spaces/ACLASCollege/aclas-neuro-dashboard)** &nbsp;|&nbsp; **[Official Model Core](https://huggingface.co/ACLASCollege/neuro-edu-core-v3)**
 
 ### 🛠️ Tech Stack & Research Focus
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg?style=for-the-badge&logo=fastapi)
 ![NumPy](https://img.shields.io/badge/NumPy-Powered-013243.svg?style=for-the-badge&logo=numpy)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black.svg?style=for-the-badge&logo=three.js)
@@ -43,7 +44,7 @@ We believe that every mind deserves elite education. Our open-source repositorie
 [![Facebook](https://img.shields.io/badge/Facebook-ACLAS-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/aclascollege)
 [![Instagram](https://img.shields.io/badge/Instagram-ACLAS-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/aclascollege)
 [![YouTube](https://img.shields.io/badge/YouTube-ACLAS-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@aclascollege)
-[![X](https://img.shields.io/badge/X-AclasCollege-000000?style=for-the-badge&logo=x)](https://x.com/AclasCollege)
+[![X](https://img.shields.io/badge/X-ACLAS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aclascollege)
 
 <sub>© 2026 Atlanta College of Liberal Arts and Sciences.</sub>
 
