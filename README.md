@@ -6,7 +6,7 @@
 
 ### *Democratizing world-class education through Autonomous AI Simulation.*
 
-**[🌐 Official Website](https://aclas.college)** &nbsp;|&nbsp; **[📚 Open Courses](https://aclas.college/home/courses)** &nbsp;|&nbsp; **[🎓 Certification Programs](https://aclas.college/verify/certificate-verify)**
+**[🌐 Official Website](https://aclas.college)** &nbsp;|&nbsp; **[📚 Open Courses](https://aclas.college/home/courses)** &nbsp;|&nbsp; **[🎓 Certification Programs](https://aclas.college/course_bundles)**
 <br>
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19743807-blue.svg)](https://doi.org/10.5281/zenodo.19743807)
 
@@ -29,7 +29,7 @@ We believe that every mind deserves elite education. Our open-source repositorie
     * 👉 **[Live 3D Neural Dashboard & Hub Integration (Hugging Face Space)](https://huggingface.co/spaces/ACLASCollege/aclas-neuro-dashboard)** &nbsp;|&nbsp; **[Official Model Core](https://huggingface.co/ACLASCollege/neuro-edu-core-v3)**
 
 ### 🛠️ Tech Stack & Research Focus
-![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg?style=for-the-badge&logo=fastapi)
 ![NumPy](https://img.shields.io/badge/NumPy-Powered-013243.svg?style=for-the-badge&logo=numpy)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black.svg?style=for-the-badge&logo=three.js)
@@ -45,7 +45,6 @@ We believe that every mind deserves elite education. Our open-source repositorie
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ACLAS-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/school/aclascollege)
 [![Facebook](https://img.shields.io/badge/Facebook-ACLAS-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/aclascollege)
 [![Instagram](https://img.shields.io/badge/Instagram-ACLAS-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/aclascollege)
-[![YouTube](https://img.shields.io/badge/YouTube-ACLAS-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@aclascollege)
 [![X](https://img.shields.io/badge/X-ACLAS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aclascollege)
 
 <sub>© 2026 Atlanta College of Liberal Arts and Sciences.</sub>
