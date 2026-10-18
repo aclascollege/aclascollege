@@ -28,6 +28,20 @@ We believe that every mind deserves elite education. Our open-source repositorie
     *An autonomous cognitive simulation framework for AI-powered education. It models knowledge acquisition using on-device neural networks, vector-space semantics, and thermodynamic entropy analysis — without relying on external wrappers.*
     * 👉 **[Live 3D Neural Dashboard & Hub Integration (Hugging Face Space)](https://huggingface.co/spaces/ACLASCollege/aclas-neuro-dashboard)** &nbsp;|&nbsp; **[Official Model Core](https://huggingface.co/ACLASCollege/neuro-edu-core-v3)**
 
+---
+
+### 📊 Open Datasets
+
+All datasets are published under CC-BY-4.0 across GitHub, Hugging Face, Kaggle, and Zenodo.
+
+| Dataset | Focus | DOI |
+|---|---|---|
+| [academic-database-recognition-2026](https://github.com/aclascollege/academic-database-recognition-2026) | 16,822 universities × swot / ROR / OpenAlex / Wikidata | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23445888.svg)](https://doi.org/10.5281/zenodo.23445888) |
+| [ai-policy-audit-2026](https://github.com/aclascollege/ai-policy-audit-2026) | AI policy audit across institutions | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23442103.svg)](https://doi.org/10.5281/zenodo.23442103) |
+| [us-r1-ai-policy-audit-2026](https://github.com/aclascollege/us-r1-ai-policy-audit-2026) | US R1 universities AI policy audit | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23442105.svg)](https://doi.org/10.5281/zenodo.23442105) |
+| [online-degree-tuition-2026](https://github.com/aclascollege/online-degree-tuition-2026) | Online degree tuition survey | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23442110.svg)](https://doi.org/10.5281/zenodo.23442110) |
+| [central-asia-ai-education-audit-2026](https://github.com/aclascollege/central-asia-ai-education-audit-2026) | Central Asia AI education audit | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23442114.svg)](https://doi.org/10.5281/zenodo.23442114) |
+
 ### 🛠️ Tech Stack & Research Focus
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg?style=for-the-badge&logo=fastapi)
