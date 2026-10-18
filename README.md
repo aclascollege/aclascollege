@@ -64,8 +64,8 @@ All datasets are published under CC-BY-4.0 across GitHub, Hugging Face, Kaggle, 
 ### 📱 Connect with ACLAS
 
 [![Email](https://img.shields.io/badge/Email-info@aclas.college-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@aclas.college)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ACLAS-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/school/aclascollege)
-[![Facebook](https://img.shields.io/badge/Facebook-ACLAS-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/aclascollege)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ACLAS-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/school/aclas.college)
+[![Facebook](https://img.shields.io/badge/Facebook-ACLAS-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/aclascollegeusa/)
 [![Instagram](https://img.shields.io/badge/Instagram-ACLAS-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/aclascollege)
 [![X](https://img.shields.io/badge/X-ACLAS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aclascollege)
 
