@@ -8,7 +8,7 @@
 
 **[🌐 Official Website](https://aclas.college)** &nbsp;|&nbsp; **[📚 Open Courses](https://aclas.college/home/courses)** &nbsp;|&nbsp; **[🎓 Certification Programs](https://aclas.college/course_bundles)**
 <br>
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19743807-blue.svg)](https://doi.org/10.5281/zenodo.19743807)
+[![Paper DOI](https://img.shields.io/badge/Paper-10.5281%2Fzenodo.19743807-blue.svg)](https://doi.org/10.5281/zenodo.19743807)
 
 </div>
 
