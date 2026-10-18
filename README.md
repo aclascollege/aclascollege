@@ -28,6 +28,14 @@ We believe that every mind deserves elite education. Our open-source repositorie
     *An autonomous cognitive simulation framework for AI-powered education. It models knowledge acquisition using on-device neural networks, vector-space semantics, and thermodynamic entropy analysis — without relying on external wrappers.*
     * 👉 **[Live 3D Neural Dashboard & Hub Integration (Hugging Face Space)](https://huggingface.co/spaces/ACLASCollege/aclas-neuro-dashboard)** &nbsp;|&nbsp; **[Official Model Core](https://huggingface.co/ACLASCollege/neuro-edu-core-v3)**
 
+### 🛠️ Open Source Projects
+
+| Project | What it is |
+|---|---|
+| 🧠 [neuro-edu](https://github.com/aclascollege/neuro-edu) | Autonomous cognitive simulation framework for AI-powered education (MIT) |
+| 🛡️ [aegis-graph](https://github.com/aclascollege/aegis-graph) | Academic integrity graph: credential verification & diploma-mill detection (CC-BY-NC-4.0) |
+| 📚 [polymath](https://github.com/aclascollege/polymath) | Open taxonomy & knowledge graph of global higher education: courses, prerequisites, degree pathways, credit frameworks (ODbL / CC BY-SA) |
+
 ---
 
 ### 📊 Open Datasets
